@@ -123,6 +123,9 @@ const Sidebar = () => {
                     </div>
                 </div>
             </div>
+
+            <p className='text-center text-light mt-5 pt-5'> SEVA CRM  <br /> By Rajdev Yadav</p>
+        
         </div>
     )
 }
